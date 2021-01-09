@@ -1,1 +1,2 @@
 hello\n my name is dave\ni am a hacker\ni secure the world for all of us
+about my early life
